@@ -1,1 +1,1 @@
-[![GeorgeET15's GitHub | Topics](https://stats.quine.sh/GeorgeET15/topics-over-time?theme=light)](https://quine.sh)
+[![GeorgeET15's GitHub | Stats](https://stats.quine.sh/GeorgeET15/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=GeorgeET15)
